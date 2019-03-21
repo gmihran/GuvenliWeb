@@ -1,2 +1,3 @@
-# GuvenliWeb
-2018-2019 Bahar Güvenli Web Yazılımı Geliştirme Ders Notları
+# Güvenli Web Yazılımı Geliştirme
+
+# 2018-2019 Bahar Dönemi Güvenli Web Yazılımı Geliştirme Ders Notları
